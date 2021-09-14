@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+opencv-python-headless
+Pillow
+emoji
+xlsxwriter
+matplotlib
+seaborn
+requests
+openpyxl
